@@ -6,7 +6,7 @@
      */
     $.fn.bootstrapValidator.i18n = $.extend(true, $.fn.bootstrapValidator.i18n, {
         base64: {
-            'default': 'Si prega di inserire un valore codificato in base64 valido'
+            'default': 'Si prega di inserire un valore base64 valido'
         },
         between: {
             'default': 'Si prega di inserire un valore tra %s e %s',
@@ -17,9 +17,9 @@
         },
         choice: {
             'default': 'Si prega di inserire un valore valido',
-            less: 'Si prega di scegliere come minimo l/'opzione %s',
-            more: 'Si prega di scegliere al massimo l/'opzione %s',
-            between: 'Si prega di scegliere l/'opzione tra %s e %s'
+            less: 'Si prega di scegliere come minimo l\'opzione %s',
+            more: 'Si prega di scegliere al massimo l\'opzione %s',
+            between: 'Si prega di scegliere l\'opzione tra %s e %s'
         },
         creditCard: {
             'default': 'Si prega di inserire un numero di carta di credito valido'
