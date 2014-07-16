@@ -63,7 +63,7 @@
         },
         iban: {
             'default': 'Si prega di inserire un numero IBAN valido',
-            countryNotSupported: 'Il codice del paese %s non è supportato',
+            countryNotSupported: 'Il codice del paese %s non &egrave; supportato',
             country: 'Si prega di inserire un numero IBAN valido in %s',
             countries: {
                 AD: 'Andorra',
@@ -149,7 +149,7 @@
         },
         id: {
             'default': 'Si prega di inserire un numero di identificazione valido',
-            countryNotSupported: 'Il codice nazione %s non è supportato',
+            countryNotSupported: 'Il codice nazione %s non &egrave; supportato',
             country: 'Si prega di inserire un numero di identificazione %s valido',
             countries: {
                 BA: 'Bosnia and Herzegovina',
@@ -218,7 +218,7 @@
         },
         phone: {
             'default': 'Si prega di inserire un numero di telefono valido',
-            countryNotSupported: 'Il codice nazione %s non è supportato',
+            countryNotSupported: 'Il codice nazione %s non &egrave; supportato',
             country: 'Si prega di inserire un numero di telefono valido in %s',
             countries: {
                 GB: 'Regno Unito',
@@ -254,7 +254,7 @@
             'default': 'Si prega di inserire un valore con lunghezza valida',
             less: 'Si prega di inserire meno di %s caratteri',
             more: 'Si prega di inserire piu di %s caratteri',
-            between: 'Si prega di inserire un numero di caratteri compreso tra  %s e %s'
+            between: 'Si prega di inserire un numero di caratteri compreso tra %s e %s'
         },
         uri: {
             'default': 'Si prega di inserire un URI valido'
@@ -265,7 +265,7 @@
         },
         vat: {
             'default': 'Si prega di inserire un valore di IVA valido',
-            countryNotSupported: 'Il codice nazione %s non è supportato',
+            countryNotSupported: 'Il codice nazione %s non &egrave; supportato',
             country: 'Si prega di inserire un valore di IVA valido per %s',
             countries: {
                 AT: 'Austria',
@@ -308,7 +308,7 @@
         },
         zipCode: {
             'default': 'Si prega di inserire un CAP valido',
-            countryNotSupported: 'Il codice nazione %s non è supportato',
+            countryNotSupported: 'Il codice nazione %s non &egrave; supportato',
             country: 'Si prega di inserire un valido  %s',
             countries: {
                 'CA': 'Codice postale Canadese',
